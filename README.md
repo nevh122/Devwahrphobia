@@ -6,4 +6,4 @@ Huet, Nicolas Eduardo V<br>
 <br>
 A Capstone Project for GAMPROG
 <br>
-Created in both RPG Maker MV and Unity Version 2021.1.19f1
+Runs in either RPG Maker MV or Unity Version 2021.1.19f1
