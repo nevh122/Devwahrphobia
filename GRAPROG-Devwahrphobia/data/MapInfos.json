@@ -3,5 +3,6 @@ null,
 {"id":1,"expanded":true,"name":"Class Room 2-1","order":2,"parentId":0,"scrollX":659,"scrollY":376},
 {"id":2,"expanded":false,"name":"Intro","order":1,"parentId":0,"scrollX":659,"scrollY":376},
 {"id":3,"expanded":false,"name":"transition1","order":3,"parentId":0,"scrollX":659,"scrollY":376},
-{"id":4,"expanded":true,"name":"Class Room 2-1 - Door Open","order":4,"parentId":0,"scrollX":659,"scrollY":376}
+{"id":4,"expanded":true,"name":"Class Room 2-1 - Door Open","order":4,"parentId":0,"scrollX":659,"scrollY":376},
+{"id":5,"expanded":false,"name":"Hallway East","order":5,"parentId":0,"scrollX":659,"scrollY":376}
 ]
