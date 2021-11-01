@@ -1,4 +1,5 @@
 [
 null,
-{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"A wooden baseball bat","effects":[],"hitType":1,"iconIndex":110,"itypeId":2,"name":"Baseball Bat","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
+{"id":1,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"A wooden baseball bat","effects":[],"hitType":1,"iconIndex":110,"itypeId":2,"name":"Baseball Bat","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+{"id":2,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"A bottle of water you got from a vending machine.\nRecover 10 hp on use.","effects":[{"code":11,"dataId":0,"value1":0,"value2":10}],"hitType":0,"iconIndex":176,"itypeId":1,"name":"Bottle of Water","note":"","occasion":0,"price":5,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0}
 ]
