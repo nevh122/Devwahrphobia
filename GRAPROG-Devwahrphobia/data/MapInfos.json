@@ -12,5 +12,6 @@ null,
 {"id":10,"expanded":true,"name":"Male Restroom","order":10,"parentId":9,"scrollX":585.7777777777778,"scrollY":334.22222222222223},
 {"id":11,"expanded":false,"name":"Female Restroom","order":11,"parentId":9,"scrollX":585.7777777777778,"scrollY":334.22222222222223},
 {"id":12,"expanded":false,"name":"Science Lab","order":12,"parentId":9,"scrollX":585.7777777777778,"scrollY":334.22222222222223},
-{"id":13,"expanded":false,"name":"Rooftop","order":13,"parentId":0,"scrollX":585.7777777777778,"scrollY":334.22222222222223}
+{"id":13,"expanded":true,"name":"Rooftop","order":13,"parentId":0,"scrollX":585.7777777777778,"scrollY":334.22222222222223},
+{"id":14,"expanded":false,"name":"Storage - Roof","order":14,"parentId":13,"scrollX":585.7777777777778,"scrollY":334.22222222222223}
 ]
