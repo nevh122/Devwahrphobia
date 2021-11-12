@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"main","characterIndex":0,"characterName":"main","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"main","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"main","characterIndex":0,"characterName":"main","classId":1,"equips":[],"faceIndex":0,"faceName":"main","traits":[],"initialLevel":1,"maxLevel":99,"name":"Harold","nickname":"","note":"","profile":""}
 ]
