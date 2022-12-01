@@ -6,21 +6,16 @@ Huet, Nicolas Eduardo V<br>
 <br>
 A Capstone Project for GAMPROG
 <br>
-Runs in either RPG Maker MV or Unity Version 2021.1.19f1
+Runs in RPG Maker MV
 <br>
 <br>
-SUBMIT THE FOLLOWING:<br>
 <br>
 Main game:<br>
-Download Link: (You can also copy the link if file is too large)<br>
-https://asiapacificcollege-my.sharepoint.com/:u:/g/personal/nvhuet_student_apc_edu_ph/EUt3JQucQ5hBnE7gJxooO5MBG66TIRmh4MyJ3UVf2FxOTQ?e=ENzjZX
+Download Link:<br>
+https://drive.google.com/file/d/1LVmbnjB6kuJkLmMfvdUZIfAI9ED-ST-H/view?usp=share_link
 <br>
 <br>
 Documents:(Can be found on the documents folder of this repo)<br>
 Devwahrphobia-GDD.pdf<br>
 DEVWAHRPHOBIA-PLAYBOOK.pdf<br>
-DEVWAHRPHOBIA-PLAYBOOK.pdf<br>
 <br>
-Assets:<br>
-Download Link: (You can also copy the link if file is too large)<br>
-https://asiapacificcollege-my.sharepoint.com/:u:/g/personal/nvhuet_student_apc_edu_ph/EVyYb84caVBOv5YcFBipKfgBL0rPbtyr6H1EI1IMp8fIhA?e=xCDYkX<br>
