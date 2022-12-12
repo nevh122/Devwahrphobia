@@ -9,6 +9,7 @@ his friends; he always slacks off somewhere or stays at home. One day he decided
 school, along the way he suddenly fainted and woke up in a strange school building realizing that
 he and his friends were transported to this school.
 <br>
+<br>
 A Capstone Project for GAMPROG
 <br>
 Runs in RPG Maker MV
